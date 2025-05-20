@@ -6,7 +6,7 @@ The system will have the responsibility for managing subscriptions, generating t
 ## Structure
 The main points are:
 <ul>
-  <li>A code generator</li>
+  <li>A password generator</li>
   <li>A priority ranking algorithm</li>
   <li>A UI to let people sign in and book a slot</li>
   <li>A database connected to the city hall services</li>
